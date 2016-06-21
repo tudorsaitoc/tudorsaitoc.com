@@ -37,7 +37,7 @@
 
 | Role | Business Unit | Start Date |
 | :--- | :-----------: | :--------: |
-| Senior Director of Sales (promoted from Director of Sales) | MSI | 2011
+| Senior Director of Sales (promoted from Director of Sales) | *MSI* | 2011
 | Director of Sales (promoted from Senior Manager) | WMS | 2009 |
 | Senior Manager, Inside & Outside Sales (promoted from Manager) | FPS | 2008 |
 | Manager, Business Development (promoted from Account Executive) | FPS | 2007 |
