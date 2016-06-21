@@ -24,7 +24,7 @@ Grovo is a learning solution which empowers businesses with the technology, cont
 | Manager, Inside Sales (promoted from Account Executive) | 2014 |
 | Account Executive | 2013 |
 
-`- Helped the company achieve/Meaningful contribution towards 20% month-over-month/1,500% year-over-year ARR growth`
+```- Helped the company achieve/Meaningful contribution towards 20% month-over-month/1,500% year-over-year ARR growth
 - Developed top of the funnel broadly while diving deep to build pipeline with Fortune 500 executives (e.g. HR, Marketing & Tech executives)
 - Planned, tested and executed bohemian-esque methods (account based marketing & social selling) to move upmarket at unprecedented speeds
 - Managed first class of new hires and consistently beat goals (20% month-over-month ARR growth)
