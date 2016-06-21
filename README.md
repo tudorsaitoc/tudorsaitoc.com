@@ -15,8 +15,7 @@
 ## Experience
 
 > ### Grovo
-| | |
-|:---|---:|
+>|:---|---:|
 | Director, Enterprise Accounts (promoted from Manager) | 2015 |
 | Manager, Inside Sales (promoted from Account Executiv | 2014 |
 | Account Executive | 2013 |
