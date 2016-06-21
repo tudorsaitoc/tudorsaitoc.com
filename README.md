@@ -15,11 +15,9 @@
 ## Experience
 
 > ### Grovo
->>|  |       |
-|:---|---:|
-| Director, Enterprise Accounts (promoted from Manager) | 2015 |
-| Manager, Inside Sales (promoted from Account Executiv | 2014 |
-| Account Executive | 2013 |
+>> *Director, Enterprise Accounts (promoted from Manager)* 2015
+>> *Manager, Inside Sales (promoted from Account Executive)* 2014
+>> *Account Executive* 2013
 
 - Helped the company achieve/Meaningful contribution towards 20% month-over-month/1,500% year-over-year ARR growth
 - Generated high quality pipeline with Fortune 500 executives (Mainly HR, Marketing & Tech executives)
