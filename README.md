@@ -32,22 +32,21 @@
 ---
 
 ## Federated Payments
-Director of Sales (promoted from Senior Manager)
-2013
-Senior Manager, Inside & Outside Sales (promoted from Manager)
-2012
-Manager, Business Development (promoted from Account Executive)
-2008
-Account Executive
-2006
+| Director of Sales (promoted from Senior Manager) | 2013 |
+| Senior Manager, Inside & Outside Sales (promoted from Manager) | 2012 |
+| Manager, Business Development (promoted from Account Executive) | 2008 |
+| Account Executive | 2006 |
 
-Managed and led Sales & Marketing efforts overseeing 10 internal employees
-
-●	Recruited and trained hundreds of commission-only sales agents
-
-●	Consistently closed largest number of new accounts in segment
-
-●	Worked directly with industry leaders, Chase Paymentech & Global Payments
+- Helped the company achieve/Meaningful contribution towards 20% month-over-month/1,500% year-over-year ARR growth
+- Generated high quality pipeline with Fortune 500 executives (Mainly HR, Marketing & Tech executives)
+- Remained a leader on the Sales floor, helping to onboard new hires and guide overall Sales strategy
+- Consistently hit monthly quota and managed forecasts accordingly
+- Managed first class of new hires and consistently beat goals (20% month-over-month ARR growth)
+- Helped to develop current Sales structure, process and methodology
+- Managed and led Sales & Marketing efforts overseeing 10 internal employees
+- Recruited and trained hundreds of commission-only sales agents
+- Consistently closed largest number of new accounts in segment
+- Worked directly with industry leaders, Chase Paymentech & Global Payments
 
 
 
