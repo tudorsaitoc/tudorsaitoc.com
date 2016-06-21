@@ -36,7 +36,7 @@
 >The Federated Group is comprised of multiple business units and provide financial services to small and midsized companies in the United States and Canada. Specifically they offer: credit and debit card payment processing, check guarantee and check conversion services, automated clearing house (ACH) check drafting and payment services, gift and loyalty programs, payment gateway, merchant cash advances, online transaction processing, point of sale (POS) systems and electronic benefits tranfer (EBT) programs.
 
 | Role | Business Unit | Start Date |
-| :--- | ------------: | ---------: |
+| :--- | :-----------: | ---------: |
 | Senior Director of Sales (promoted from Director of Sales) | MSI | 2011
 | Director of Sales (promoted from Senior Manager) | WMS | 2009 |
 | Senior Manager, Inside & Outside Sales (promoted from Manager) | FPS | 2008 |
