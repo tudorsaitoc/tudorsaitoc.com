@@ -31,10 +31,11 @@ Grovo is a learning solution which empowers businesses with the technology, cont
 
 - Helped the company achieve 20% month-over-month ARR growth
 ```
-- Developed top of the funnel broadly while diving deep to build pipeline with Fortune 500 executives (e.g. HR, Marketing & Tech executives)
-- Planned, tested and executed bohemian-esque methods (account based marketing & social selling) to move upmarket at unprecedented speeds
+- Developed top of the funnel and built strong pipeline with Fortune 500 executives (e.g. HR, Marketing & Tech executives)
+- Planned, tested and executed bohemian-esque (account based marketing & social selling) methods to move upmarket at unprecedented speeds
 - Managed first class of new hires and consistently beat goals (20% month-over-month ARR growth)
-- Shaped the overall Sales structure, process and methodology
+- Shaped the overall Sales structure, process and methodology at one of the most
+  sophisticated tech companies in NYC
 - First salesperson hired in NYC headquarters and apprentice to Cofounder and CEO, Jeff Fernandez
 
 ---
@@ -51,7 +52,6 @@ Grovo is a learning solution which empowers businesses with the technology, cont
 | *Manager, Business Development (promoted from Account Executive)* | FPS | 2007 |
 | *Account Executive* | FPS | 2006 |
 
-- Helped the company achieve/Meaningful contribution towards 20% month-over-month/1,500% year-over-year ARR growth
 - Generated high quality pipeline with Fortune 500 executives (Mainly HR, Marketing & Tech executives)
 - Remained a leader on the Sales floor, helping to onboard new hires and guide overall Sales strategy
 - Consistently hit monthly quota and managed forecasts accordingly
