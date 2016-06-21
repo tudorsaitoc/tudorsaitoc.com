@@ -14,9 +14,9 @@
 
 ## Experience
 
-### Grovo
->| Role | Start Date |
-|:-----|-----------:|
+>### Grovo
+| Roles | Start Date |
+|:------|-----------:|
 |Director, Enterprise Accounts (promoted from Manager)|2015|
 |Manager, Inside Sales (promoted from Account Executive)|2014|
 |Account Executive|2013|
