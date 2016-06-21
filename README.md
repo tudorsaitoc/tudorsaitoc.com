@@ -15,7 +15,7 @@
 ## Experience
 
 >### [Grovo][]
-| Roles | Start Date |
+| Role | Start Date |
 |:------|-----------:|
 |Director, Enterprise Accounts (promoted from Manager)|2015|
 |Manager, Inside Sales (promoted from Account Executive)|2014|
@@ -33,10 +33,10 @@
 
 >### [The Federated Group][]
 
->The Federated Group provides financial services to small and midsized companies in the United States and Canada. Specifically they offer: credit and debit card payment processing, check guarantee and check conversion services, automated clearing house (ACH) check drafting and payment services, gift and loyalty programs, payment gateway, merchant cash advances, online transaction processing, point of sale (POS) systems and electronic benefits tranfer (EBT) programs. I made the decision to move on in 2012 because I wanted to expand on my ideas and I began to outgrow the model at The Federated Group. The model was very traditional and it unfortunately didn’t offer a long-term opportunity for a young professional
+>The Federated Group provides financial services to small and midsized companies in the United States and Canada. Specifically they offer: credit and debit card payment processing, check guarantee and check conversion services, automated clearing house (ACH) check drafting and payment services, gift and loyalty programs, payment gateway, merchant cash advances, online transaction processing, point of sale (POS) systems and electronic benefits tranfer (EBT) programs.
 
-| Roles | Start Date |
-|:------|-----------:|
+| Role | Busine Unit | Start Date |
+| ---- | :-----------: | :--------: |
 | Director of Sales (promoted from Senior Manager) | 2013 |
 | Senior Manager, Inside & Outside Sales (promoted from Manager) | 2012 |
 | Manager, Business Development (promoted from Account Executive) | 2008 |
