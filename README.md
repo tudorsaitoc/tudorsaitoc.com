@@ -15,18 +15,20 @@
 ## Experience
 
 >### [Grovo][]
+
+Grovo is a learning solution which empowers businesses with the technology, content, and service to align, educate and inspire their teams. From onboarding to professional development, they have and also custom tailor 60-second microlearning videos teach everything 21st-century employees need, delivered on a platform that learners and trainers love.
+
 | Role | Start Date |
 | ------ | -----------: |
 | Director, Enterprise Accounts (promoted from Manager) | 2015 |
 | Manager, Inside Sales (promoted from Account Executive) | 2014 |
 | Account Executive | 2013 |
 
-- Helped the company achieve/Meaningful contribution towards 20% month-over-month/1,500% year-over-year ARR growth
-- Generated high quality pipeline with Fortune 500 executives (Mainly HR, Marketing & Tech executives)
-- Remained a leader on the Sales floor, helping to onboard new hires and guide overall Sales strategy
-- Consistently hit monthly quota and managed forecasts accordingly
+`- Helped the company achieve/Meaningful contribution towards 20% month-over-month/1,500% year-over-year ARR growth`
+- Developed top of the funnel broadly while diving deep to build pipeline with Fortune 500 executives (e.g. HR, Marketing & Tech executives)
+- Planned, tested and executed bohemian-esque methods (account based marketing & social selling) to move upmarket at unprecedented speeds
 - Managed first class of new hires and consistently beat goals (20% month-over-month ARR growth)
-- Helped to develop current Sales structure, process and methodology
+- Shaped the overall Sales structure, process and methodology
 - First salesperson hired in NYC headquarters and apprentice to Cofounder and CEO, Jeff Fernandez
 
 ---
