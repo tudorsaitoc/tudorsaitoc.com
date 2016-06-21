@@ -31,7 +31,11 @@
 
 ---
 
->### [The Federated Group][]
+>### [The Federated Group][] The Federated Group is comprised of multiple
+>business divisions that provide card processing and related business solutions
+>for small to midsize businesses within the U.S. and Canada.
+| Roles | Start Date |
+|:------|-----------:|
 | Director of Sales (promoted from Senior Manager) | 2013 |
 | Senior Manager, Inside & Outside Sales (promoted from Manager) | 2012 |
 | Manager, Business Development (promoted from Account Executive) | 2008 |
@@ -57,6 +61,6 @@
 [email]: mailto:tudor@saitoc.me
 [phone]: tel:+16315596551
 [grovo]: https://www.google.com/search?q=grovo&as_qdr=y&{google:acceptedSuggestion}oq=grovo&aqs=chrome..69i57j69i60j69i65l3j69i59.1147j0j4&sourceid=chrome&ie=UTF-8
-[the federated group]: https://www.gofederated.com
+[the federated group]: http://www.gofederated.com
 [federated]: https://www.linkedin.com/company/8843529?trk=prof-exp-company-name
 [fps]: https://www.linkedin.com/redirect?url=http%3A%2F%2Fwww%2Efederatedpayments%2Ecom&urlhash=hzJr
