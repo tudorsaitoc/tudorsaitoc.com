@@ -33,15 +33,8 @@
 
 >### [The Federated Group][]
 
->The Federated Group is comprised of multiple business divisions that provide
-card processing and related business solutions for small to midsize businesses
-within the U.S. and Canada.
-The company offers solutions that include credit and debit card processing, gift
-and loyalty card programs, check approval services, and ISO / Agent partner
-portals. I made the decision to move on in 2012 because I wanted to expand on my
-ideas and I began to outgrow the model at The Federated Group. The model was
-very traditional and it unfortunately didn’t offer a long-term opportunity for
-a young professional
+>The Federated Group provides financial services to small and midsized companies in the United States and Canada. Specifically they offer: credit and debit card payment processing, check guarantee and check conversion services, automated clearing house (ACH) check drafting and payment services, gift and loyalty programs, payment gateway, merchant cash advances, online transaction processing, point of sale (POS) systems and electronic benefits tranfer (EBT) programs. I made the decision to move on in 2012 because I wanted to expand on my ideas and I began to outgrow the model at The Federated Group. The model was very traditional and it unfortunately didn’t offer a long-term opportunity for a young professional
+
 | Roles | Start Date |
 |:------|-----------:|
 | Director of Sales (promoted from Senior Manager) | 2013 |
