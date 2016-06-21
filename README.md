@@ -1,7 +1,8 @@
 # Tudor Saitoc
 
-
 [tudor@saitoc.me][email] | [631.559.6551][phone] | New York, NY
+
+---
 
 >### Top performing Sales leader for 10+ years
 
@@ -11,9 +12,9 @@
 
 ---
 
-## Journey thus far
+## Experience
 
-## **Grovo**
+### **Grovo**
 | Role | Date |
 |:---|---:|
 | Director, Enterprise Accounts (promoted from Manager) | 2015 |
@@ -28,8 +29,9 @@
 - Helped to develop current Sales structure, process and methodology
 - First salesperson hired in NYC headquarters and apprentice to Cofounder and CEO, Jeff Fernandez
 
+---
 
-Federated Payments
+## Federated Payments
 Director of Sales (promoted from Senior Manager)
 2013
 Senior Manager, Inside & Outside Sales (promoted from Manager)
