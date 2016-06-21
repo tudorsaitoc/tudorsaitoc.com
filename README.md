@@ -37,11 +37,11 @@
 
 | Role | Business Unit | Start Date |
 | :--- | :-----------: | :--------: |
-| Senior Director of Sales (promoted from Director of Sales) | *MSI* | 2011
-| Director of Sales (promoted from Senior Manager) | WMS | 2009 |
-| Senior Manager, Inside & Outside Sales (promoted from Manager) | FPS | 2008 |
-| Manager, Business Development (promoted from Account Executive) | FPS | 2007 |
-| Account Executive | FPS | 2006 |
+| *Senior Director of Sales (promoted from Director of Sales)* | MSI | 2011
+| *Director of Sales (promoted from Senior Manager)* | WMS | 2009 |
+| *Senior Manager, Inside & Outside Sales (promoted from Manager)* | FPS | 2008 |
+| *Manager, Business Development (promoted from Account Executive)* | FPS | 2007 |
+| *Account Executive* | FPS | 2006 |
 
 - Helped the company achieve/Meaningful contribution towards 20% month-over-month/1,500% year-over-year ARR growth
 - Generated high quality pipeline with Fortune 500 executives (Mainly HR, Marketing & Tech executives)
