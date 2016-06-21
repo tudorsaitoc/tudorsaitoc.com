@@ -32,6 +32,11 @@
 ---
 
 >### [The Federated Group][]
+
+The Federated Group is comprised of multiple business divisions that provide
+card processing and related business solutions for small to midsize businesses
+within the U.S. and Canada.
+
 | Roles | Start Date |
 |:------|-----------:|
 | Director of Sales (promoted from Senior Manager) | 2013 |
