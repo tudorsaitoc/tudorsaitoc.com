@@ -16,10 +16,10 @@
 
 >### [Grovo][]
 | Role | Start Date |
-|:------|-----------:|
-|Director, Enterprise Accounts (promoted from Manager)|2015|
-|Manager, Inside Sales (promoted from Account Executive)|2014|
-|Account Executive|2013|
+| ------ | -----------: |
+| Director, Enterprise Accounts (promoted from Manager) | 2015 |
+| Manager, Inside Sales (promoted from Account Executive) | 2014 |
+| Account Executive | 2013 |
 
 - Helped the company achieve/Meaningful contribution towards 20% month-over-month/1,500% year-over-year ARR growth
 - Generated high quality pipeline with Fortune 500 executives (Mainly HR, Marketing & Tech executives)
@@ -35,12 +35,13 @@
 
 >The Federated Group provides financial services to small and midsized companies in the United States and Canada. Specifically they offer: credit and debit card payment processing, check guarantee and check conversion services, automated clearing house (ACH) check drafting and payment services, gift and loyalty programs, payment gateway, merchant cash advances, online transaction processing, point of sale (POS) systems and electronic benefits tranfer (EBT) programs.
 
-| Role | Busine Unit | Start Date |
+| Role | Business Unit | Start Date |
 | ---- | :-----------: | :--------: |
-| Director of Sales (promoted from Senior Manager) | 2013 |
-| Senior Manager, Inside & Outside Sales (promoted from Manager) | 2012 |
-| Manager, Business Development (promoted from Account Executive) | 2008 |
-| Account Executive | 2006 |
+| Senior Director of Sales (promoted from Director of Sales) | MSI | 2011
+| Director of Sales (promoted from Senior Manager) | WMS | 2009 |
+| Senior Manager, Inside & Outside Sales (promoted from Manager) | FPS | 2008 |
+| Manager, Business Development (promoted from Account Executive) | FPS | 2007 |
+| Account Executive | FPS | 2006 |
 
 - Helped the company achieve/Meaningful contribution towards 20% month-over-month/1,500% year-over-year ARR growth
 - Generated high quality pipeline with Fortune 500 executives (Mainly HR, Marketing & Tech executives)
