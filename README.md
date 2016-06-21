@@ -4,7 +4,7 @@
 
 ---
 
-# Top performing Sales leader for 10+ years
+## Top performing Sales leader for 10+ years
 
 **Leadership.** Managed a team of 15 reps to close $100M in new business; Team consistently achieved top 3 performance of 100+ teams
 
@@ -12,10 +12,10 @@
 
 ---
 
-# Experience
+## Experience
 
-## Grovo
-| Role | Start Date |
+### Grovo
+>| Role | Start Date |
 |:-----|-----------:|
 |Director, Enterprise Accounts (promoted from Manager)|2015|
 |Manager, Inside Sales (promoted from Account Executive)|2014|
