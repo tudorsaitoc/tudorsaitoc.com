@@ -1,12 +1,13 @@
 # Tudor Saitoc
 
+
+[tudor@saitoc.me][email] | [631.559.6551][phone] | New York, NY
+
 >### Top performing Sales leader for 10+ years
 
 **Leadership.** Managed a team of 15 reps to close $100M in new business; Team consistently achieved top 3 performance of 100+ teams
 
-s###**Sales.** Individually booked $1.5M in new business (25% of all Sales revenue including strategic accounts: Walmart, Equinox and Medieval Times)
-
-[tudor@saitoc.me][email] | [631.559.6551][phone] | New York, NY
+**Sales.** Individually booked $1.5M in new business (25% of all Sales revenue including strategic accounts: Walmart, Equinox and Medieval Times)
 
 ---
 
